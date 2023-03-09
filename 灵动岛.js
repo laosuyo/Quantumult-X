@@ -15,7 +15,7 @@ TG订阅：https://t.me/S666699999
 
 [rewrite_local]
 
-^http[s]?:\/\/buy.itunes.apple.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/itunes.js
+^http[s]?:\/\/buy.itunes.apple.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/laosuyo/Quantumult-X/main/灵动岛js
 
 [mitm] 
 
