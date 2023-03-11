@@ -17,7 +17,7 @@ TG订阅：https://t.me/S666699999
 
 [rewrite_local]
 
-^http[s]?:\/\/appapi.pipimanhua.cc url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hxmh.js
+^http[s]?:\/\/appapi.pipimanhua.cc url script-response-body https://raw.githubusercontent.com/laosuyo/Quantumult-X/main/huoxing.js
 
 [mitm] 
 
