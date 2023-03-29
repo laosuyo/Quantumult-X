@@ -14,7 +14,7 @@ TG订阅：https://t.me/S666699999
 
 [rewrite_local]
 
-^https:\/\/bzpp2\.iwzbz\.com\/api\/v1\.1\/user\/getpwnewios_v url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wzbz.js
+^https:\/\/bzpp2\.iwzbz\.com\/api\/v1\.1\/user\/getpwnewios_v url script-response-body https://raw.githubusercontent.com/laosuyo/Quantumult-X/main/zhouyi.js
 
 [mitm] 
 
