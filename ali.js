@@ -34,7 +34,7 @@ const tubiao = '/users/me';
 
 if ($request.url.indexOf(huanying) != -1){
   chxm1023.title = "Hey,夕阳欢迎您使用🎉";
-  chxm1023.description = "特别说明：解锁部分功能，不完全解锁🔔";
+  chxm1023.description = "特别说明：微信公众号：夕阳助手科技 仅解锁部分功能🔔";
 }
 
 if ($request.url.indexOf(chatiao) != -1){
